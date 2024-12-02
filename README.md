@@ -1,7 +1,4 @@
 # f24-bootcamp-final-project
-- [ ]  A brief description (title, purpose, tools used)
-- [ ]  Features (what makes your app stand out?)
-- [ ]  Obstacles and future additions
 
 DREAM  
 "DREAM" is an IOS mobile application that aims to help users record and analyze their dreams and how those dreams might reflect the user's real-life experiences. Right now, the analysis is done for fun and not based on any scientific models/approaches. 
